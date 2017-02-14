@@ -1,0 +1,3 @@
+[submodule "server/imports/Oauth2orizeRecipes"]
+	path = server/imports/Oauth2orizeRecipes
+	url = https://github.com/crapthings/Oauth2orizeRecipes
